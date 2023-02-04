@@ -1,0 +1,1 @@
+# JavaScript-Code-to-understand-various-types-of-alerts-in-JavaScript.-12
